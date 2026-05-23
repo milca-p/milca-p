@@ -43,19 +43,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" />
   &nbsp;&nbsp;&nbsp;  
 </div>
-
----
-
-<h3>
-  Contact
-</h3>
-
-<div>
-  <a href="https://www.linkedin.com/in/milca-pereira-52ab85363">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:milcapereira99@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30"/>
-  </a>
-</div>
