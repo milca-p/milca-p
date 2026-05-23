@@ -14,7 +14,7 @@
 ---
 
 <h3>
-  ⚡ Tech Stack
+  Tech Stack
 </h3>
 
 <h4>
@@ -47,7 +47,7 @@
 ---
 
 <h3>
-  📲 Contact
+  Contact
 </h3>
 
 <div>
