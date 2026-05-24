@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  I'm Milca, a Computer Science student at Universidade do Vale do Itajaí currently working in the data field.
+  I'm Milca, a Computer Science student currently working in the data field.
 </p>
 
 ---
