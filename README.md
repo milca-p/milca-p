@@ -60,31 +60,11 @@
 <br>
 
 <div align="center">
-
-<table style="border-collapse: collapse; width: 100%; max-width: 900px;">
-
-<tr>
-
-<td width="50%" style="padding:5px;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milca-p&theme=midnight_purple" width="100%">
-</td>
-
-<td width="50%" style="padding:5px;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milca-p&theme=midnight_purple" width="100%">
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" style="padding:5px;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milca-p&theme=midnight_purple" width="100%">
-</td>
-
-</tr>
-
-</table>
-
+<img width="40%" src="https://github-readme-stats.shion.dev/api?username=milca-p&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" />
+<br><br>
+<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=milca-p&layout=compact&theme=midnight-purple&hide_border=true" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=7600bc&customColorList=33&section=footer"/>
+
+
